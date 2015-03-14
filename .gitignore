@@ -12,7 +12,6 @@
 !/log/.keep
 /tmp
 /node_modules/
-/bin
 *~
 /log
 /public
